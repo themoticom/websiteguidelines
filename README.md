@@ -45,15 +45,15 @@ When commenting, please follow these rules:
 Block Comments are written using the /_ comments _/ style.
 Block Comments are added:
 
-A. at the top of every source file and include:
+**A.** at the top of every source file and include:
 
 - your name
 - the date your code was written
 - an overall description of the purpose of that program.
 
-B. before functions with a description of the function’s purpose; these can be omitted for very short, obvious functions only.
+**B.** before functions with a description of the function’s purpose; these can be omitted for very short, obvious functions only.
 
-C. inline, as //comments. Near important lines of code within functions and with variables when they are initialized
+**C.** inline, as //comments. Near important lines of code within functions and with variables when they are initialized
 
 ### 4. Naming!
 
