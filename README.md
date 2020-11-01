@@ -87,7 +87,7 @@ Functions are short and accomplish a clear, specific task. As much as possible t
 ## Other guidelines
 
 - Use npm, not yarn
-- Use Visual Studio Code and install the esline extension as well as the prettier extension in their default configuration. Always follow the eslint recommendations.
+- Use Visual Studio Code and install the eslint extension as well as the prettier extension in their default configuration. Always follow the eslint recommendations.
 - Make sure you use ample Commenting throughout your code
 - Images are 1024x1024 and do not exceed 300kb for better website speed and to save database cost
 - Keep code files small and divide code into components
