@@ -84,6 +84,9 @@ White space is meaningless to compilers, but are used consistently to improve re
 
 Functions are short and accomplish a clear, specific task. As much as possible they are considered “black boxes” which do not depend on anything except their parameters and can handle any possible input gracefully. A common rule of thumb is the “Ten Line Rule”; usually functions longer than ten lines are trying to do too much and are tof be simplified. Functions do not have any repeated segments of code. Rather than repeating segments, a separate function is created. This will shorten your program and improve readability.
 
+### 8. Depracated code!
+Using any deprecated library or any deprecated methods are not allowed, you should follow the best practices of a framework or a libary and avoid using any depracated methods or any methods that warn you that this methods will depracated in the future and you should switch for another one.
+
 ## Other guidelines
 
 - Use npm, not yarn
